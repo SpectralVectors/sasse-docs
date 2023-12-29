@@ -1,3 +1,9 @@
-# Stylized Assets, Spectral Shaders & Effects
+# The SASSE Library
 
-SASSE is an Asset Library for Blender/
+Stylized Assets
+
+Spectral Shaders
+
+and Effects
+
+SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
