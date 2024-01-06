@@ -175,7 +175,7 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: https://olivier3lanc.github.io/Assets/
+        -   url: /assets/
             title: Assets
             order: 500
             category: SASSE Library
