@@ -169,20 +169,16 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-            # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: https://olivier3lanc.github.io/Scroll-Btween/
-            title: Scroll Btween
+        -   url: https://olivier3lanc.github.io/Assets/
+            title: Assets
             order: 500
-            category: Showcase
+            category: SASSE Library
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
             title: Scroll Frames
             order: 500
