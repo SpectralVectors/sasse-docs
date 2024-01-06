@@ -4,9 +4,9 @@
 # ---------
 
 remote_theme: olivier3lanc/Jekyll-LibDoc
-title: SASSE Library Docs # title of the documentation
+title: SASSE Library Documentation # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  Documentation for the SASSE (Stylized Asset, Spectral Shader & Effect) Library for Blender
+  Stylized Asset, Spectral Shader & Effect Library Docs
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://192.168.1.54 # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
