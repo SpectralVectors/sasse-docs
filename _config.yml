@@ -175,10 +175,10 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: /SASSE-Assets.html
-            title: SASSE Library Assets
-            order: 500
-            category: SASSE Library
+        # -   url: /SASSE-Assets.html
+        #     title: SASSE Library Assets
+        #     order: 500
+        #     category: SASSE Library
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
             title: Scroll Frames
             order: 500
