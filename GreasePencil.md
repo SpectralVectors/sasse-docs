@@ -4,7 +4,7 @@ description: List of SASSE Library Effects.
 layout: libdoc/assets
 
 category: Linework
-order: 200
+order: 300
 ---
 
 Grease Pencil Lines yo.
