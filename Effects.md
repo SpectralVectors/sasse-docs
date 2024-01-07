@@ -1,10 +1,10 @@
 ---
-title: Effects
+title: Ground Planes
 description: List of SASSE Library Effects.
 layout: libdoc/assets
 
-category: SASSE Library
+category: Assets
 order: 200
 ---
 
-Effects yo.
+Ground Planes yo.
