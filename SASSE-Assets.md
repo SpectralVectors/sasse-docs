@@ -1,5 +1,5 @@
 ---
-title: SASSE Assets
+title: Assets
 description: List of SASSE Library Assets.
 layout: libdoc/assets
 
