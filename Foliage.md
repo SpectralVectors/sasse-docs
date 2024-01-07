@@ -4,7 +4,7 @@ description: List of SASSE Library Materials and Shaders.
 layout: libdoc/assets
 
 category: Materials
-order: 200
+order: 400
 ---
 
 Foliage Shaders yo.
