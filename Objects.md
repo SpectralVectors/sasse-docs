@@ -1,10 +1,10 @@
 ---
-title: Linework
+title: Objects
 description: List of SASSE Library Outlines and Linework Tools.
 layout: libdoc/assets
 
-category: SASSE Library
+category: Assets
 order: 200
 ---
 
-Linework yo.
+Objects yo.
