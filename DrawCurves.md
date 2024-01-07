@@ -1,10 +1,10 @@
 ---
-title: Assets
+title: Draw Curves
 description: List of SASSE Library Assets.
 layout: libdoc/assets
 
-category: SASSE Library
+category: Assets
 order: 200
 ---
 
-Assets yo.
+Draw Curves yo.
