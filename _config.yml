@@ -176,7 +176,7 @@ sidebar:
         #     category: Features
         # Example URL
         -   url: /SASSE-Assets.html
-            title: Assets
+            title: SASSE Library Assets
             order: 500
             category: SASSE Library
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
