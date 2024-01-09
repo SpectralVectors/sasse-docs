@@ -1,16 +1,19 @@
 ---
 title: Draw Curves
-description: List of SASSE Library Assets.
-layout: libdoc/assets
-assets:
-    path_from_root: /assets/Assets/Draw_Curves
-    extensions_enabled:
-        - jpg
-        - gif
-        - webp
-        - png
+description: Use the Pen Tool to draw these objects directly into your Scene.
+layout: libdoc/page
+
 category: Assets
 order: 100
 ---
+{:toc}
 
-Draw Curves yo.
+## Chain Curve
+![](/assets/Assets/Draw_Curves/Chain_Curve_Preview.png)
+### Settings
+#### End Cap 1
+#### End Cap 2
+#### Chain Link
+#### Chain Material
+#### Chain Color
+#### Chain Wear
