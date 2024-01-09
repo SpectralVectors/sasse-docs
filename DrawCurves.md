@@ -6,10 +6,8 @@ layout: libdoc/page
 category: Assets
 order: 100
 ---
-*
-{:toc}
-
 ## Chain Curve
+{:toc}
 ![Chain Curve](/assets/Assets/Draw_Curves/Chain_Curve_Preview.png)
 ### Settings
 - End Cap 1
@@ -20,6 +18,7 @@ order: 100
 - Chain Wear
 
 ## Cloud Curve
+{:toc}
 ![Cloud Curve](/assets/Assets/Draw_Curves/Cloud_Curve_Preview.png)
 ### Geometry
 - Seed
@@ -37,6 +36,7 @@ order: 100
 - Gradient Height
 
 ## Intestine Curve
+{:toc}
 ![Intestine Curve](/assets/Assets/Draw_Curves/Intestine_Curve_Preview.png)
 ### Settings
 - Color
@@ -53,6 +53,7 @@ order: 100
 - End Cap 2
 
 ## Lightning Curve
+{:toc}
 ![Lightning Curve](/assets/Assets/Draw_Curves/Lightning_Curve_Preview.png)
 ### Geometry
 - Width
