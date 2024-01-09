@@ -15,10 +15,8 @@ order: 100
 #### Chain Material
 #### Chain Color
 #### Chain Wear
-{:toc}
 
 ## Cloud Curve
-{:toc}
 ![Cloud Curve](/assets/Assets/Draw_Curves/Cloud_Curve_Preview.png)
 ### Geometry
 - Seed
@@ -36,7 +34,6 @@ order: 100
 - Gradient Height
 
 ## Intestine Curve
-{:toc}
 ![Intestine Curve](/assets/Assets/Draw_Curves/Intestine_Curve_Preview.png)
 ### Settings
 - Color
@@ -53,7 +50,6 @@ order: 100
 - End Cap 2
 
 ## Lightning Curve
-{:toc}
 ![Lightning Curve](/assets/Assets/Draw_Curves/Lightning_Curve_Preview.png)
 ### Geometry
 - Width
