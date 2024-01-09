@@ -7,16 +7,20 @@ category: Assets
 order: 100
 ---
 ## Chain Curve
+{:toc}
 ![Chain Curve](/assets/Assets/Draw_Curves/Chain_Curve_Preview.png)
 ### Settings
+{:toc}
 - End Cap 1
 - End Cap 2
 - Chain Link
 - Chain Material
 - Chain Color
 - Chain Wear
+{:toc}
 
 ## Cloud Curve
+{:toc}
 ![Cloud Curve](/assets/Assets/Draw_Curves/Cloud_Curve_Preview.png)
 ### Geometry
 - Seed
