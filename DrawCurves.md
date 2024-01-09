@@ -8,22 +8,22 @@ order: 100
 ---
 ## Chain Curve
 ### Settings
-- End Cap 1
-- End Cap 2
-- Chain Link
-- Chain Material
-- Chain Color
-- Chain Wear
+#### End Cap 1
+#### End Cap 2
+#### Chain Link
+#### Chain Material
+#### Chain Color
+#### Chain Wear
 ## Cloud Curve
 ### Geometry
-- Seed
-- Radius Factor
-- Radius Offset
-- Scale Offset Min
-- Density
-- Displacement Scale
-- Displacement Strength
-- Subdivision Level
+#### Seed
+#### Radius Factor
+#### Radius Offset
+#### Scale Offset Min
+#### Density
+#### Displacement Scale
+#### Displacement Strength
+#### Subdivision Level
 ### Material
 - Material
 - Color Top
