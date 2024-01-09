@@ -9,12 +9,12 @@ order: 100
 ## Chain Curve
 ![Chain Curve](/assets/Assets/Draw_Curves/Chain_Curve_Preview.png)
 ### Settings
-- End Cap 1
-- End Cap 2
-- Chain Link
-- Chain Material
-- Chain Color
-- Chain Wear
+#### End Cap 1
+#### End Cap 2
+#### Chain Link
+#### Chain Material
+#### Chain Color
+#### Chain Wear
 
 ## Cloud Curve
 ![Cloud Curve](/assets/Assets/Draw_Curves/Cloud_Curve_Preview.png)
