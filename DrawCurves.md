@@ -6,7 +6,6 @@ layout: libdoc/page
 category: Assets
 order: 100
 ---
-{:toc}
 ## Chain Curve
 ![Chain Curve](/assets/Assets/Draw_Curves/Chain_Curve_Preview.png)
 ### Settings
@@ -63,6 +62,5 @@ order: 100
 - Emission Strength
 ### Motion
 - Speed Factor
-
-
 - Progress
+{:toc}
