@@ -6,12 +6,12 @@ layout: libdoc/page
 category: Assets
 order: 100
 ---
-- Chain Curve
-  - Settings
-    - End Cap 1
-- Cloud Curve
-  - Geometry
-    - Seed
+* Chain Curve
+  * Settings
+    * End Cap 1
+* Cloud Curve
+  * Geometry
+    * Seed
 {:toc}
 
 ## Chain Curve
