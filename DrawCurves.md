@@ -67,3 +67,58 @@ order: 100
 ### Motion
 - Speed Factor
 - Progress
+
+## Road Plane Curve
+![Road Plane Curve](/assets/Assets/Draw_Curves/Road_Plane_Curve_Preview.png)
+### Settings
+- Road Color
+- Center Line Color
+- Outer Line Color
+- Line Spacing
+- Cracks Mix
+- Cracks Scale
+- Puddles Color
+- Puddles Mix
+- Puddles Scale
+- Displacement Scale
+- Displacement Strength
+- Smooth Subdivisions
+- Motion Multiplier
+
+## Rope Curve
+![Rope Curve](/assets/Assets/Draw_Curves/Rope_Curve_Preview.png)
+### Settings
+- Cable Color
+- Line Spacing
+- Curve Resample Size
+- Curve Resolution
+- Curve Radius
+- SubDiv Level
+- Multi-Strand
+- Twist
+- Strands
+- Strand Spacing
+- End Cap 1
+- End Cap 2
+
+## Tears / Sweat Curve
+![Tears Sweat Curve](/assets/Assets/Draw_Curves/Tears_Sweat_Curve_Preview.png)
+### Settings
+- Radius
+- Color
+
+## Tech Cable Curve
+![Tech Cable Curve](/assets/Assets/Draw_Curves/TechCable_Curve_Preview.png)
+### Settings
+- Cable Color
+- Line Spacing
+- Curve Resample Size
+- Curve Resolution
+- Curve Radius
+- SubDiv Level
+- Multi-Strand
+- Twist
+- Strands
+- Strand Spacing
+- End Cap 1
+- End Cap 2
