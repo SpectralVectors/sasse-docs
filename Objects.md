@@ -1,6 +1,6 @@
 ---
 title: Objects
-description: List of SASSE Library Outlines and Linework Tools.
+description: List of SASSE Library Objects.
 layout: libdoc/page
 category: Assets
 order: 100
