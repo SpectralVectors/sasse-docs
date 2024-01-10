@@ -1,16 +1,13 @@
 ---
 title: Gore
 description: List of SASSE Library Effects.
-layout: libdoc/assets
-assets:
-    path_from_root: /assets/Effects/Gore
-    extensions_enabled:
-        - jpg
-        - gif
-        - webp
-        - png
+layout: libdoc/page
+
 category: Effects
 order: 200
 ---
+- Blood Splatter Planes
+{:toc}
 
-Gore yo.
+## Blood Splatter Planes
+![Blood Splatter Planes](/assets/Effects/Gore/Splatter_Spray_Planes_Preview.png)
