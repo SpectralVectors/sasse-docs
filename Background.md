@@ -7,7 +7,7 @@ category: Effects
 order: 200
 ---
 - Action Cylinder
-(:toc)
+{:toc}
 
 ## Action Cylinder
 ![Action Cylinder](/assets/Effects/Background/Action_Cylinder_Preview.png)
