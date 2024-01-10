@@ -1,16 +1,16 @@
 ---
 title: Fire
 description: List of SASSE Library Effects.
-layout: libdoc/assets
-assets:
-    path_from_root: /assets/Effects/Fire
-    extensions_enabled:
-        - jpg
-        - gif
-        - webp
-        - png
+layout: libdoc/page
+
 category: Effects
 order: 200
 ---
+- Fire
+{:toc}
 
-Fire yo.
+## Fire Plane
+![Fire Plane](/assets/Effects/Fire/Fire_Plane_Preview.png)
+
+## Heat Ripple Plane
+![Heat Ripple Plane](/assets/Effects/Fire/Heat_Ripple_Plane_Preview.png)
