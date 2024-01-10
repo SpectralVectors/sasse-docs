@@ -15,5 +15,5 @@ order: 200
 ## Focus Lines Plane
 ![Focus Lines Plane](/assets/Effects/Foreground/Focus_Lines_Plane_Preview.png)
 
-## Radial Action Lines Plane
-![Radial Action Lines Plane](/assets/Effects/Foreground/Radial_Action_Lines_Preview.png)
+## Radial Action Lines
+![Radial Action Lines](/assets/Effects/Foreground/Radial_Action_Lines_Preview.png)
