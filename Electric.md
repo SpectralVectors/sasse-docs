@@ -6,8 +6,9 @@ layout: libdoc/page
 category: Effects
 order: 200
 ---
--
+- Electric
 {:toc}
+
 ## Electric Sphere
 ![Electric Sphere](/assets/Effects/Electric/Electric_Sphere_Preview.png)
 
