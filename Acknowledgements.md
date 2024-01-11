@@ -4,7 +4,7 @@ description: Acknowledging Inspirations and Guides
 layout: libdoc/page
 
 category: FAQ
-order: 10
+order: 600
 ---
 - Acknowledgements
 {:toc}
