@@ -1,16 +1,19 @@
 ---
 title: Geometry Nodes
 description: List of SASSE Library Effects.
-layout: libdoc/assets
-assets:
-    path_from_root: /assets/Linework/GeometryNodes
-    extensions_enabled:
-        - jpg
-        - gif
-        - webp
-        - png
+layout: libdoc/page
+
 category: Linework
 order: 300
 ---
+- Draw Lines
+{:toc}
 
-Geo Nodes Lines yo.
+## Draw Lines
+![Draw Lines](/assets/Linework/GeometryNodes/Draw_Lines_Preview.png)
+
+## In & Outline
+![In & Outline](/assets/Linework/GeometryNodes/In_Outline_Preview.png)
+
+## Simple Outline
+![Simple Outline](/assets/Linework/GeometryNodes/Simple_Outline_Preview.png)
