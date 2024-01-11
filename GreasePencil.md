@@ -1,16 +1,13 @@
 ---
 title: Grease Pencil
 description: List of SASSE Library Effects.
-layout: libdoc/assets
-assets:
-    path_from_root: /assets/Linework/GreasePencil
-    extensions_enabled:
-        - jpg
-        - gif
-        - webp
-        - png
+layout: libdoc/page
+
 category: Linework
 order: 300
 ---
+- LineArt
+{:toc}
 
-Grease Pencil Lines yo.
+## LineArt
+![LineArt](/assets/Linework/GreasePencil/LineArt_Preview.png)
