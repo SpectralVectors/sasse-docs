@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements & Thanks
+title: Acknowledgements
 description: Acknowledging Inspirations and Guides
 layout: libdoc/page
 
