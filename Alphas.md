@@ -9,7 +9,7 @@ assets:
         - gif
         - webp
         - png
-category: Materials
+category: Node Groups
 order: 400
 ---
 Designed to work with the Foliage Planes, Tree Topper and Tree Objects, these Node Groups have been included to facilitate using the Alphas with your own objects.
