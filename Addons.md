@@ -1,5 +1,5 @@
 ---
-title: Other Addons
+title: Addons
 description: Addons that Work Well with SASSE
 layout: libdoc/page
 
