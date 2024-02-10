@@ -22,7 +22,6 @@ html {
 
 body {
   margin: 0;
-  background-color: #333333;
 }
 
 /**
@@ -75,7 +74,7 @@ pre {
  */
 
 a {
-  background-color: #222222;
+  background-color: transparent;
 }
 
 /**
