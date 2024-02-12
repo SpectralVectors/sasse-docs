@@ -66,7 +66,9 @@ Thank you for visiting the SASSE docs!
                 data-letter-spacing="|0:-0.1 to 100:0|em">The SASSE Library</span>
     </p>
 </article>
-<div id="detector-w1" class="detector">&nbsp;<img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png"></div>
+<img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png">
+<div id="detector-w1" class="detector">&nbsp;</div>
+<img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png">
 <div id="detector-w2" class="detector">&nbsp;</div>
 <div id="detector-w3" class="detector">&nbsp;</div>
 <div id="detector-w4" class="detector">&nbsp;</div>
