@@ -135,6 +135,6 @@ p > span {
 </style>
 ```
 
-</details>
-
 {:.playground title="Optional title"}
+
+</details>
