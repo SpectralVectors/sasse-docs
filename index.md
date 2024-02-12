@@ -69,9 +69,9 @@ Thank you for visiting the SASSE docs!
 <div id="detector-w1" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Tree_Preview.png"></p></div>
 <div id="detector-w2" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Foreground/Concentration_Lines_Plane_Preview.png"></div>
 <div id="detector-w3" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Linework/GeometryNodes/In_Outline_Preview.png"></div>                              
-<div id="detector-w4" class="detector">&nbsp;<p><img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/Diffuse_General_Previw.png"></div>        
-<div id="detector-w5" class="detector">&nbsp;<p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Trails/Speed_Lines_Trail_Preview.png"></div>
-<div id="detector-w6" class="detector">&nbsp;<p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Trails/LightTrail_Preview.png"></div>
+<div id="detector-w4" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/Diffuse_General_Previw.png"></div>        
+<div id="detector-w5" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Trails/Speed_Lines_Trail_Preview.png"></div>
+<div id="detector-w6" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Trails/LightTrail_Preview.png"></div>
 <nav class="bottom">
     <a  href="https://olivier3lanc.github.io/Scroll-Btween" target="_blank">This demo uses ScrollBtween</a>
 </nav>  
