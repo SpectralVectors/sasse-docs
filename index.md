@@ -39,8 +39,9 @@ Thank you for visiting the SASSE docs!
                 data-opacity="|0:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:1 to 98:1 to 100:2|)" 
                 data-letter-spacing="|0:-0.05 to 100:0|em">
-                <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-front-1000.webp">
-                Assets</span>
+                <figure scroll-btween="gyp-front2" data-left="|0 to 13|%" data-top="|0 to -5|%">
+                <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-front-1000.webp" alt="Bearded vulture">
+                </figure>Assets</span>
         <span scroll-btween="w2" 
                 data-detector="detector-w2" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
