@@ -38,32 +38,32 @@ Thank you for visiting the SASSE docs!
                 data-detector="detector-w1" 
                 data-opacity="|0:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.05 to 100:0|em">Scroll down</span>
+                data-letter-spacing="|0:-0.05 to 100:0|em">Assets</span>
         <span scroll-btween="w2" 
                 data-detector="detector-w2" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.1 to 100:0|em">This is a</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Effects</span>
         <span scroll-btween="w3" 
                 data-detector="detector-w3" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.1 to 100:0|em">playground</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Linework</span>
         <span scroll-btween="w4" 
                 data-detector="detector-w4" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.1 to 100:0|em">example</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Materials</span>
         <span scroll-btween="w5" 
                 data-detector="detector-w5" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.1 to 100:0|em">with its</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Node Groups</span>
         <span scroll-btween="w6" 
                 data-detector="detector-w6" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.1 to 100:0|em">own settings</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">The SASSE Library</span>
     </p>
 </article>
 <div id="detector-w1" class="detector">&nbsp;</div>
@@ -94,7 +94,7 @@ html::before {
 body {
     color: #FFF;
     font-family: 'Kufam', sans-serif;
-    background: radial-gradient(circle at 50% 50%, #ffb56b, #f39060, #e16b5c, #ca485c, #ac255e, #870160, #5b0060, #1f005c);
+    background: background: linear-gradient(#0000ff, #eeeeee);
 }
 nav.top {
     position: fixed;
