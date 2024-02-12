@@ -38,8 +38,7 @@ Thank you for visiting the SASSE docs!
                 data-detector="detector-w1" 
                 data-opacity="|0:1 to 98:1 to 100:0|" 
                 data-transform="scale(|0:1 to 98:1 to 100:2|)" 
-                data-letter-spacing="|0:-0.05 to 100:0|em">
-                <img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png">Assets</span>
+                data-letter-spacing="|0:-0.05 to 100:0|em">Assets</span>
         <span scroll-btween="w2" 
                 data-detector="detector-w2" 
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
@@ -67,7 +66,7 @@ Thank you for visiting the SASSE docs!
                 data-letter-spacing="|0:-0.1 to 100:0|em">The SASSE Library</span>
     </p>
 </article>
-<div id="detector-w1" class="detector">&nbsp;</div>
+<div id="detector-w1" class="detector">&nbsp;<img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png"></div>
 <div id="detector-w2" class="detector">&nbsp;</div>
 <div id="detector-w3" class="detector">&nbsp;</div>
 <div id="detector-w4" class="detector">&nbsp;</div>
