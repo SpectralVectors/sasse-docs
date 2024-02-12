@@ -4,13 +4,49 @@ layout: libdoc/page-split
 
 # The SASSE Library
 
-Stylized Assets
-
-Spectral Shaders
-
-and Effects
+Welcome to the SASSE Documentation!
 
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```html
 <nav    class="top"
