@@ -2,49 +2,28 @@
 layout: libdoc/page-split
 title: The Sasse Library
 ---
+![](/assets/SASSE_Library_Splash.png)
+
 Welcome to the SASSE Documentation!
 
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
 
+Scroll through a sample of the assets included in the library on the right, or use the Sidebar on the left to navigate directly to the assets you want to see.
 
+The Introduction covers what SASSE is, what is does, and why it was created.
 
+The User Guide contains info on how to install and use the library in Blender.
 
+Below that are the categories that you can find in the Asset Browser in Blender:
+- Assets
+- Effects
+- Linework
+- Materials
+- Node Groups
 
+And, finally, the FAQ section, covering thanks, acknowledgements, frequently asked questions, and everything else!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thank you for visiting the SASSE docs!
 
 ```html
 <nav    class="top"
