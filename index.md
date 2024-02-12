@@ -66,7 +66,7 @@ Thank you for visiting the SASSE docs!
                 data-letter-spacing="|0:-0.1 to 100:0|em">The SASSE Library</span>
     </p>
 </article>
-<div id="detector-w1" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Tree_Preview.png"></p></div>
+<div id="detector-w1" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Cloud_Preview.png"></p><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Assets/Objects/Tree_Preview.png"></p></div>
 <div id="detector-w2" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Effects/Light/Kanada_Flare_Preview.png"></div>
 <div id="detector-w3" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Linework/GeometryNodes/In_Outline_Preview.png"></div>                              
 <div id="detector-w4" class="detector"><p><img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/Diffuse_General_Previw.png"></div>        
