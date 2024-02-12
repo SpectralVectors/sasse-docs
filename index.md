@@ -145,4 +145,4 @@ p > span {
 .detector { margin-top: 95vh; margin-bottom: 95vh; }
 </style>
 ```
-{:.playground title="Optional title"}
+{:.playground title="Scrolling SASSE Sampler"}
