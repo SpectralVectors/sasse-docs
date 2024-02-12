@@ -13,7 +13,6 @@ and Effects
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
 
 ```html
-<details>
 <article class="wrapper-playground gyp1" scroll-btween="gyp-back" data-detector="detector" data-background-position="|70 to 30|% center">
     <header>
         <h1>Free like <span>a bird</span></h1>
@@ -102,7 +101,6 @@ SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
     body > p { text-align: right; font-size: 12px; padding-right: 1em }
     #detector { position: absolute; top: 100vh; }
 </style>
-</details>
 ```
 
 {:.playground title="Optional title"}
