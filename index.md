@@ -92,7 +92,7 @@ html::before {
     border: 1px solid white;
 }
 body {
-    color: #FFF;
+    color: #FFFF00;
     font-family: 'Kufam', sans-serif;
     background: linear-gradient(#0000ff, #eeeeee);
 }
