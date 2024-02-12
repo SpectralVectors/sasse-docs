@@ -94,7 +94,7 @@ html::before {
 body {
     color: #FFF;
     font-family: 'Kufam', sans-serif;
-    background: background: linear-gradient(#0000ff, #eeeeee);
+    background: linear-gradient(#0000ff, #eeeeee);
 }
 nav.top {
     position: fixed;
