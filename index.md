@@ -103,5 +103,3 @@ SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
 </style>
 ```
 {:.playground title="Optional title"}
-
-{:.playground title="Playground example"}
