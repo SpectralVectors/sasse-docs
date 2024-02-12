@@ -13,96 +13,123 @@ and Effects
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
 
 ```html
-
-<article class="wrapper-playground gyp1" scroll-btween="gyp-back" data-detector="detector" data-background-position="|70 to 30|% center">
-    <header>
-        <h1>Free like <span>a bird</span></h1>
-        <p>Gypaetus barbatus</p>
-    </header>
-    <figure scroll-btween="gyp-front" data-detector="detector" data-left="|3 to -3|%" data-top="|0 to -20|%">
-        <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp-front-1000.webp" alt="Bearded vulture">
-    </figure>
+<nav    class="top"
+        scroll-btween="nav_1"
+        data-detector="detector-w1" 
+        data-top="|0:20 to 30:0 to 100:0|px">
+    <a  href="{{site.url}}{{site.baseurl}}/#playground-example" target="_parent">Code of this playground</a>
+</nav>
+<article>
+    <p>
+        <span scroll-btween="w1" 
+                data-detector="detector-w1" 
+                data-opacity="|0:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.05 to 100:0|em">Scroll down</span>
+        <span scroll-btween="w2" 
+                data-detector="detector-w2" 
+                data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.1 to 100:0|em">This is a</span>
+        <span scroll-btween="w3" 
+                data-detector="detector-w3" 
+                data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.1 to 100:0|em">playground</span>
+        <span scroll-btween="w4" 
+                data-detector="detector-w4" 
+                data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.1 to 100:0|em">example</span>
+        <span scroll-btween="w5" 
+                data-detector="detector-w5" 
+                data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.1 to 100:0|em">with its</span>
+        <span scroll-btween="w6" 
+                data-detector="detector-w6" 
+                data-opacity="|0:0 to 2:1 to 98:1 to 100:0|" 
+                data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)" 
+                data-letter-spacing="|0:-0.1 to 100:0|em">own settings</span>
+    </p>
 </article>
-<div id="detector"></div>
-<article class="wrapper-playground gyp2" scroll-btween="gyp-back2" data-background-position="|30 to 70|% center">
-    <header>
-        <h1>Bearded <span>vulture</span></h1>
-        <p>Gypaetus barbatus</p>
-    </header>
-    <figure scroll-btween="gyp-front2" data-left="|0 to 13|%" data-top="|0 to -5|%">
-        <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-front-1000.webp" alt="Bearded vulture">
-    </figure>
-</article>
-<p>Photo credits Olivier 3lanc</p>
+<div id="detector-w1" class="detector">&nbsp;</div>
+<div id="detector-w2" class="detector">&nbsp;</div>
+<div id="detector-w3" class="detector">&nbsp;</div>
+<div id="detector-w4" class="detector">&nbsp;</div>
+<div id="detector-w5" class="detector">&nbsp;</div>
+<div id="detector-w6" class="detector">&nbsp;</div>
+<nav class="bottom">
+    <a  href="https://olivier3lanc.github.io/Scroll-Btween" target="_blank">This demo uses ScrollBtween</a>
+</nav>  
 <style>
-    body {
-        margin: 0; padding:0; height: 400vh;
-    }
-    .wrapper-playground {
-        position: relative;
-        top: 0;
-        left: 0;
-        width: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        overflow: hidden;
-        background-size: 120%;
-        background-position: 40% center;
-        background-repeat: no-repeat;
-    }
-    .wrapper-playground.gyp1 {
-        background-image: url(https://olivier3lanc.github.io/Scroll-Btween/img/gyp-back-1000.webp);
-    }
-    .wrapper-playground.gyp2 {
-        background-image: url(https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-back-1000.webp);
-    }
-    .wrapper-playground::before {
-        content: '';
-        float: left;
-        padding-bottom: 66.66%;
-    }
-    figure {
-        display: flex;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        left: 0;
-        line-height: 0;
-        margin: 0;
-        padding: 0;
-    }
-    figure img {
-        max-width: 100%;
-        max-height: 100%;
-        width: 100%;
-        height: auto;
-    }
-    header {
-        text-align: center;
-        color: #FFFFFFc2;
-    }
-    header h1 {
-        margin-top: 0;
-        margin-bottom: 0;
-        font-size: 13vw;
-        font-family: sans-serif;
-    }
-    header h1 span {
-        display: block;
-        position: relative; /* Sets in front of the image */
-        z-index: 1; /* Sets in front of the image */
-    }
-    header p {
-        margin: 0;
-        font-style: italic;
-        font-size: 5vmin;
-    }
-    body > p { text-align: right; font-size: 12px; padding-right: 1em }
-    #detector { position: absolute; top: 100vh; }
+@import url('https://fonts.googleapis.com/css2?family=Kufam:wght@600&display=swap');
+html {
+    position: relative;
+}
+html::before {
+    content: '';
+    pointer-events: none;
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    border: 1px solid white;
+}
+body {
+    color: #FFF;
+    font-family: 'Kufam', sans-serif;
+    background: radial-gradient(circle at 50% 50%, #ffb56b, #f39060, #e16b5c, #ca485c, #ac255e, #870160, #5b0060, #1f005c);
+}
+nav.top {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1;
+}
+nav.bottom {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1;
+}
+nav a {
+    display: inline-flex;
+    padding: 1em;
+    color: white;
+    font-size: 14px;
+    font-family: monospace;
+}
+article {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+p {
+    font-size: 10vmin;
+    letter-spacing: -0.1em;
+    line-height: 1em;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+p > span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    opacity: 0;
+    margin: -1em 0em 0em 0em;
+}
+.detector { margin-top: 95vh; margin-bottom: 95vh; }
 </style>
-
 ```
-
 {:.playground title="Optional title"}
