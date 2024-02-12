@@ -1,9 +1,7 @@
 ---
 layout: libdoc/page-split
+title: The Sasse Library
 ---
-
-# The SASSE Library
-
 Welcome to the SASSE Documentation!
 
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
