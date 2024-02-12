@@ -30,7 +30,7 @@ Thank you for visiting the SASSE docs!
         scroll-btween="nav_1"
         data-detector="detector-w1" 
         data-top="|0:20 to 30:0 to 100:0|px">
-    <a  href="{{site.url}}{{site.baseurl}}/#playground-example" target="_parent">Code of this playground</a>
+    <a  href="{{site.url}}{{site.baseurl}}" target="_parent">Home</a>
 </nav>
 <article>
     <p>
