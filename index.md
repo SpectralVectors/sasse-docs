@@ -12,8 +12,6 @@ and Effects
 
 SASSE is a Toon, Anime, NPR Asset Library for Blender 4+
 
-<details><summary>Expand to see the demo code</summary>
-
 ```html
 <nav    class="top"
         scroll-btween="nav_1"
@@ -134,7 +132,4 @@ p > span {
 .detector { margin-top: 95vh; margin-bottom: 95vh; }
 </style>
 ```
-
 {:.playground title="Optional title"}
-
-</details>
