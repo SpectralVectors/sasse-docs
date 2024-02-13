@@ -136,7 +136,7 @@ html::before {
 body {
     color: #FFFF00;
     font-family: 'Kufam', sans-serif;
-    background: linear-gradient(#7777FF, #000077);
+    background: radial-gradient(#7777FF, #FFBFEA);
 }
 nav.top {
     position: fixed;
