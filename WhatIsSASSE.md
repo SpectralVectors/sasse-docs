@@ -14,9 +14,8 @@ The SASSE Library is a series of shaders, assets, effects and utilities designed
 
 SASSE stands for Stylized Assets, Spectral Shaders and Effects.
 
-It is an evolution of an earlier addon, designed to take advantage of Blender's Asset Browser and Geometry Nodes to give you easily accessible, procedural and customizable stylized assets and effects.
+It is an evolution of an earlier addon of mine, designed to take advantage of Blender's Asset Browser and Geometry Nodes to give you easily accessible, procedural and customizable stylized assets and effects.
 
-## What Does It Do?
 There are already many excellent toon shading setups for Blender, though for some you must adopt unique workflows to achieve the best results (e.g. UV or Normal editing, channel based lighting).
 
 I wanted to be able to treat a stylized scene the same way I would a 'standard' 3D scene:
@@ -30,7 +29,12 @@ While retaining the stylized elements that I love:
 - traditional art techniques and textures
 - 2D animation techniques like smears, squash and stretch
 
-This led to the development of the Spectral Shaders, the Base Shaders of SASSE.
+And using the latest Blender tool, Geometry Nodes:
+- Draw objects into your scene, like chains, beams, ropes, cables or lightning!
+- Quickly access all object and shader options from a single modifier!
+- Procedural textures, geometry, and animations!
+
+This led to the development of SASSE.
 
 ## Features
 ### Shaders
