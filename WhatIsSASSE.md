@@ -32,7 +32,8 @@ While retaining the stylized elements that I love:
 
 This led to the development of the Spectral Shaders, the Base Shaders of SASSE.
 
-Featuring:
+## Features
+### Shaders
 - Banded Lighting with threshold (turn up or down the number of bands)
 - Colored Light! Light your stylized scene with color!
 - Light Path or Vector Math based shading
@@ -40,3 +41,7 @@ Featuring:
 - Specialized Glass, Tears, Holofoil and Halftone Shaders
 - Customize surface, light band and rim light normals with animatable textures
 - 26 2K Traditional Art Textures included
+
+### Assets
+
+### Effects
