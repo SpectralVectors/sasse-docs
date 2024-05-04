@@ -24,11 +24,12 @@ I wanted to be able to treat a stylized scene the same way I would a 'standard' 
 - add regular lights to my scene that could influence the color of my model
 - use diffuse, specular, emissive or glossy shading
 
+
 While retaining the stylized elements that I love:
 - banded, cel-shaded lighting
 - outer and inner lines
 - traditional art techniques and textures
-- 2D animation techniques like smears, squash and stretch
+
 
 And using the latest Blender tool, Geometry Nodes:
 - Draw objects into your scene, like chains, beams, ropes, cables or lightning!
