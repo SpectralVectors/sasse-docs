@@ -127,5 +127,4 @@ order: 100
 - **Strands** - number of strands
 - **Strand Spacing** - distance between strands
 ### Material
-- **Cable Color
-**
+- **Cable Color**
