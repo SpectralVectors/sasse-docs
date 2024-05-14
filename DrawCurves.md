@@ -90,38 +90,42 @@ order: 100
 
 ## Rope Curve
 ![Rope Curve](/assets/Assets/Draw_Curves/Rope_Curve_Preview.png)
-### Settings
-- Cable Color
-- Line Spacing
-- Curve Resample Size
-- Curve Resolution
-- Curve Radius
-- SubDiv Level
-- Multi-Strand
-- Twist
-- Strands
-- Strand Spacing
-- End Cap 1
-- End Cap 2
+### Object
+- **End Cap** - defaults to 'Rope End' collection, hidden in scene
+### Geometry
+- **Line Spacing** - space between lines in rope material
+- **Curve Resample Size** - points in curve, determines detail
+- **Curve Resolution** - points around curve
+- **Curve Radius** - thickness of rope
+- **SubDiv Level** - smooths the mesh, but computationally expensive
+- **Multi-Strand**
+- **Twist** - amount to twist the strands around the curve
+- **Strands** - number of strands
+- **Strand Spacing** - distance between strands
+### Material
+- **Cable Color**
 
 ## Tears / Sweat Curve
 ![Tears Sweat Curve](/assets/Assets/Draw_Curves/Tears_Sweat_Curve_Preview.png)
-### Settings
-- Radius
-- Color
+### Geometry
+- **Radius** - thickness of curve 
+### Material
+- **Color** - tint of the transparent material
 
 ## Tech Cable Curve
 ![Tech Cable Curve](/assets/Assets/Draw_Curves/TechCable_Curve_Preview.png)
-### Settings
-- Cable Color
-- Line Spacing
-- Curve Resample Size
-- Curve Resolution
-- Curve Radius
-- SubDiv Level
-- Multi-Strand
-- Twist
-- Strands
-- Strand Spacing
-- End Cap 1
-- End Cap 2
+### Object
+- **End Cap** - defaults to 'Tech Cable End' collection, hidden in scene
+### Geometry
+- **Line Spacing** - space between lines on tech cable material
+- **Curve Resample Size** - points in curve, determines detail
+- **Curve Resolution** - points around curve
+- **Curve Radius** - thickness of cable
+- **SubDiv Level** - smooths the mesh, but computationally expensive
+- **Multi-Strand**
+- **Twist** - amount to twist the strands around the curve
+- **Strands** - number of strands
+- **Strand Spacing** - distance between strands
+### Material
+- **Cable Color
+**
