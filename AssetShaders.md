@@ -1,5 +1,5 @@
 ---
-title: Asset Shaders
+title: Individual Asset Shaders
 description: List of SASSE Library Materials and Shaders.
 layout: libdoc/page
 
