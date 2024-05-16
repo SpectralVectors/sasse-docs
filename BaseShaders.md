@@ -18,12 +18,6 @@ order: 400
 ## Glossy / Metallic
 ![Glossy](/assets/Materials/Base_Shaders/Glossy_Metallic_Previw.png)
 
-## Halftone
-![Halftone](/assets/Materials/Base_Shaders/Halftone_Previw.png)
-
-## Holofoil
-![Holofoil](/assets/Materials/Base_Shaders/Holofoil_Previw.png)
-
 ## Outline
 ![Outline](/assets/Materials/Base_Shaders/Toon_Outline_Preview.png)
 
