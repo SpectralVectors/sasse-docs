@@ -14,3 +14,5 @@ order: 200
 
 ## Heat Ripple Plane
 ![Heat Ripple Plane](/assets/Effects/Fire/Heat_Ripple_Plane_Preview.png)
+- **Speed Multiplier**
+- **Scale**
