@@ -11,3 +11,10 @@ order: 200
 
 ## Blood Splatter Planes
 ![Blood Splatter Planes](/assets/Effects/Gore/Splatter_Spray_Planes_Preview.png)
+### Material
+- **Blood Color**
+- **Blood Scale**
+
+### Motion
+- **Speed Factor**
+- **Progress**
