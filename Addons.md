@@ -11,32 +11,33 @@ order: 600
 
 ## Alternatives
 ### Toon Shaders
-Lightning Boy Studios
-Dillon Goo Studios
-Komikaze by DoubleGum
-Toonkit
-Vertex Arcade
+- Lightning Boy Studios
+- Dillon Goo Studios
+- Komikaze by DoubleGum
+- Toonkit
+- Vertex Arcade
 
 ### Stylized Assets
-Fade by Thatimster
-Ggenebrush
-Rei
-Creative Trio
-Ryan King Art
-Kristof Dedene
+- Fade by Thatimster
+- Ggenebrush
+- Rei
+- Creative Trio
+- Ryan King Art
+- Kristof Dedene
 
 ## Companions (external)
 ### Framerate
-SouthernShotty
-CodyWinch
+- SouthernShotty
+- CodyWinch
 
 ### Camera
-Camera Shakify
+- Camera Shakify
 
-Abnormal
+### Normal Editing
+- Abnormal
 
 ## Companions (built-in)
-Cell Fracture
-Import Images as Planes
-Sapling Tree Gen
-A.N.T. Landscape
+- Cell Fracture
+- Import Images as Planes
+- Sapling Tree Gen
+- A.N.T. Landscape
