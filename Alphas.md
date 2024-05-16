@@ -12,7 +12,7 @@ assets:
 category: Node Groups
 order: 500
 ---
-Designed to work with the Foliage Planes, Tree Topper and Tree Objects, these Node Groups have been included to facilitate using the Alphas with your own materials.
+Designed to work with the Foliage Shaders, these Node Groups have been included to facilitate using the Alphas with your own materials.
 
 Each Group outputs as either:
 - a Diffuse/Transparent Shader with Color and Bump control
