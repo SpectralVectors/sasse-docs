@@ -13,4 +13,14 @@ category: Node Groups
 order: 500
 ---
 
-Utility yo.
+A series of Node Groups to facilitate stepped and oscillating motion in Shaders and Geometry Nodes.
+
+## LFO
+
+## TimeStep Attributes GN
+
+## TimeStep GN
+
+## TimeStep Menu GN
+
+## TimeStep SN
