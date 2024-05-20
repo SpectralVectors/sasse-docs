@@ -6,11 +6,24 @@ layout: libdoc/page
 category: Effects
 order: 200
 ---
-- Rain Plane
+- Rain Planes
 {:toc}
 
-## Rain Plane
+## Rain Planes
 ![Rain Plane](/assets/Effects/Rain/Rain_Plane_Preview.png)
+### Geometry
+- **Count**
+- **Spacing**
+- **Scale by Distance**
+
+### Material
+- **Color**
+
+### Motion
+- **Speed Multiplier**
+
+## Rain System
+![Rain System](/assets/Effects/Rain/Rain_Splashes_Preview.png)
 ### Collision
 - **Collision Collection**
 - **Kill Plane**
@@ -35,16 +48,3 @@ order: 200
 
 ### Motion
 - **Speed**
-
-## Rain System
-![Rain System](/assets/Effects/Rain/Rain_Splashes_Preview.png)
-### Geometry
-- **Count**
-- **Spacing**
-- **Scale by Distance**
-
-### Material
-- **Color**
-
-### Motion
-- **Speed Multiplier**
