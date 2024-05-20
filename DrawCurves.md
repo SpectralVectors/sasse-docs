@@ -15,6 +15,7 @@ order: 100
 - **End Cap 1** - select and animate an object from your scene, e.g. ball, hook
 - **End Cap 2** - object for the other end of the chain
 - **Chain Link** - object to make the chain itself, inside a hidden collection
+
 ### Material
 - **Chain Color**
 - **Chain Wear** - surface bumps and dents
@@ -31,6 +32,7 @@ order: 100
 - **Displacement Scale** - how large are the lumps on the cloud
 - **Displacement Strength** - how far do they extend
 - **Subdivision Level** - smooths the mesh, but computationally expensive
+
 ### Material
 - **Color Top**
 - **Color Bottom**
@@ -41,6 +43,7 @@ order: 100
 ### Object
 - **End Cap 1**
 - **End Cap 2**
+
 ### Geometry
 - Line Spacing
 - **Curve Resample Size** - points in the curve, determines detail level
@@ -51,6 +54,7 @@ order: 100
 - **Twist** - for multi-strand
 - **Strands** - number of strands for multi-strand
 - **Strand Spacing** - distance between strands for multi-strand, or curve radius for single strand
+
 ### Material
 - **Color** - base pink color
 
@@ -61,9 +65,11 @@ order: 100
 - **Subdivisions** - smooths the mesh, but computationally expensive
 - **Displace** - how far to shift the points of the mesh
 - **Sub-Bolts** - probability of adding smaller sub-bolts
+
 ### Material
 - **Bolt Color**
 - **Emission Strength** - how bright the mesh will be, best shown with Bloom enabled, in Standard Color Management
+
 ### Motion
 - **Speed Factor**
 - **Progress**
@@ -74,17 +80,20 @@ order: 100
 - **Displacement Scale** - width control
 - **Displacement Strength** - depth / height control
 - **Smooth Subdivisions** - smooths the mesh, but computationally expensive
+
 ### Material
 - **Line Spacing** - length of lines / distance between
 - **Road Color** - base pavement color
 - **Center Line Color**
 - **Outer Line Color**
 - **Puddles Color** - show if puddles are enabled
+
 ### Cracks & Puddles
 - **Cracks Mix** - blends cracks into the pavement
 - **Cracks Scale** - size of the cracks
 - **Puddles Mix** - blends puddles into the pavement
 - **Puddles Scale** - size of the puddles
+
 ### Motion
 - **Motion Multiplier** - speed of the animated textures
 
@@ -92,6 +101,7 @@ order: 100
 ![Rope Curve](/assets/Assets/Draw_Curves/Rope_Curve_Preview.png)
 ### Object
 - **End Cap** - defaults to 'Rope End' collection, hidden in scene
+
 ### Geometry
 - **Line Spacing** - space between lines in rope material
 - **Curve Resample Size** - points in curve, determines detail
@@ -102,13 +112,15 @@ order: 100
 - **Twist** - amount to twist the strands around the curve
 - **Strands** - number of strands
 - **Strand Spacing** - distance between strands
+
 ### Material
 - **Cable Color**
 
 ## Tears / Sweat Curve
 ![Tears Sweat Curve](/assets/Assets/Draw_Curves/Tears_Sweat_Curve_Preview.png)
 ### Geometry
-- **Radius** - thickness of curve 
+- **Radius** - thickness of curve
+
 ### Material
 - **Color** - tint of the transparent material
 
@@ -116,6 +128,7 @@ order: 100
 ![Tech Cable Curve](/assets/Assets/Draw_Curves/TechCable_Curve_Preview.png)
 ### Object
 - **End Cap** - defaults to 'Tech Cable End' collection, hidden in scene
+
 ### Geometry
 - **Line Spacing** - space between lines on tech cable material
 - **Curve Resample Size** - points in curve, determines detail
@@ -126,5 +139,6 @@ order: 100
 - **Twist** - amount to twist the strands around the curve
 - **Strands** - number of strands
 - **Strand Spacing** - distance between strands
+
 ### Material
 - **Cable Color**
