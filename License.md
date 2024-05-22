@@ -10,7 +10,7 @@ order: 600
 {:toc}
 
 ## License
-You can use these assets in any still, gif, short or long-form animation or video, television show, film, web-series, website, interactive media or video-game.
+You may use, combine and customize these assets in any still, gif, short or long-form animation or video, television show, film, web-series, website, interactive media or video-game.
 
 They are licensed for commercial or non-commercial use and credit is not required (though it is appreciated!).
 
