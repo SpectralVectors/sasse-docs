@@ -12,7 +12,7 @@ order: 600
 ## Compatibility
 SASSE was designed to take advantage of Geometry Nodes and the tight integration it provided between shaders, animation and mesh editing, and, as such, works best in more recent versions of Blender.
 
-Compatibility is guaranteed and fully tested in Blender 4+. 
+### Compatible with Blender 4 and higher
 
 It will work with 3.6 LTS, though many sockets need to be manually reconnected in Geometry Node trees, and will likely experience issues on earlier versions due to the rapid changes in Geometry Nodes upon its introduction.
 
