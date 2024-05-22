@@ -10,7 +10,7 @@ order: 400
 {:toc}
 
 ## Halftone
-![Halftone](/assets/Materials/Base_Shaders/Halftone_Previw.png)
+![Halftone](/assets/Materials/Base_Shaders/SASSE_Halftone_Preview.png)
 
 ## Holofoil
 ![Holofoil](/assets/Materials/Base_Shaders/SASSE_Holofoil_Preview.png)
