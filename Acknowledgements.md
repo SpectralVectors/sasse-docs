@@ -15,7 +15,6 @@ Thanks to the [Blender Foundation](https://www.blender.org/) for creating, maint
 Thanks to the following amazing Blender artists for sharing tips, tutorials and inspiring art:
 
 - [CG DASH](https://www.youtube.com/@CGDASH)
-
 - [Kristof Dedene](https://www.youtube.com/channel/UCAcXkKCYidxGU-VIA5z-ZzQ)
 - [Cody Winch](https://www.youtube.com/@CodyWinch)
 - [lateasusual](https://twitter.com/lateasusual_)
@@ -33,5 +32,7 @@ Thanks to the following amazing Blender artists for sharing tips, tutorials and 
 - [Daniels Gulbis](https://www.youtube.com/@gulbisdaniels)
 - [87render](https://www.youtube.com/@87render_official)
 
+And a special thanks to CG Matter, Cartesian Caramel and Erindale for helping me to 'get' Geometry Nodes!
 - [CG Matter](https://www.youtube.com/@CGMatter)
 - [Cartesian Caramel](https://www.youtube.com/@CartesianCaramel)
+- [Erindale](https://www.youtube.com/@Erindale)
