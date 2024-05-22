@@ -14,5 +14,5 @@ order: 200
 
 ## Heat Ripple Plane
 ![Heat Ripple Plane](/assets/Effects/Fire/Heat_Ripple_Plane_Preview.png)
-- **Speed Multiplier**
-- **Scale**
+- **Speed Multiplier** - how fast will the ripples move
+- **Scale** - how large are the ripples
