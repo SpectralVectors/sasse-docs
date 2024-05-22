@@ -11,3 +11,7 @@ order: 300
 
 ## LineArt
 ![LineArt](/assets/Linework/GreasePencil/LineArt_Preview.png)
+
+This is a Grease Pencil object that you can drop into your scene that comes with a basic pre-defined 6 color palette, noise modifier and blur effect that will follow Camera Depth of Field.
+
+Choose your Collection, your outline color, turn up the noise and you have instant, animated retro line art!
