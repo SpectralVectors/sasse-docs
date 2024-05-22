@@ -14,6 +14,8 @@ SASSE was designed to take advantage of Geometry Nodes and the tight integration
 
 Compatibility is guaranteed and fully tested in Blender 4+. 
 
-It should work with 3.6 LTS (testing is on-going), and will likely experience issues on earlier versions due to the rapid changes in Geometry Nodes upon its introduction.
+It will work with 3.6 LTS, though many sockets need to be manually reconnected in Geometry Node trees, and will likely experience issues on earlier versions due to the rapid changes in Geometry Nodes upon its introduction.
 
-Shaders and non-Geometry Nodes based objects should work back to 2.8, and many objects could have their Geometry Nodes modifiers applied in 3.6 and then imported to 2.8, but you would lose much of the customization that makes the objects and effects function.
+_If there is demand for a 3.6 compatible version, I can prepare and test an alternate release._
+
+Shaders and non-Geometry Nodes based objects should work back to 2.93, and many objects could have their Geometry Nodes modifiers applied in 3.6 and then imported to 2.93, but you would lose much of the customization that makes the objects and effects function.
