@@ -17,7 +17,7 @@ order: 100
 - **Chain Link** - object to make the chain itself, inside a hidden collection
 
 ### Material
-- **Chain Color**
+- **Chain Color** - base color of the chain links
 - **Chain Wear** - surface bumps and dents
 
 ## Cloud Curve
@@ -34,23 +34,22 @@ order: 100
 - **Subdivision Level** - smooths the mesh, but computationally expensive
 
 ### Material
-- **Color Top**
-- **Color Bottom**
-- **Gradient Height**
+- **Color Top** - upper gradient color
+- **Color Bottom** - lower gradient color
+- **Gradient Height** - height of the color transition
 
 ## Intestine Curve
 ![Intestine Curve](/assets/Assets/Draw_Curves/Intestine_Curve_Preview.png)
 ### Object
-- **End Cap 1**
-- **End Cap 2**
+- **End Cap 1** - select and animate an object from your scene
+- **End Cap 2** - object for the other end
 
 ### Geometry
-- Line Spacing
 - **Curve Resample Size** - points in the curve, determines detail level
 - **Curve Resolution** - points around the curve
 - **Curve Radius** - radius for multi-strand curves
 - **Subdivision Level** - smooths the mesh, but computationally expensive
-- **Multi-Strand**
+- **Multi-Strand** - single or multiple curves
 - **Twist** - for multi-strand
 - **Strands** - number of strands for multi-strand
 - **Strand Spacing** - distance between strands for multi-strand, or curve radius for single strand
@@ -67,12 +66,12 @@ order: 100
 - **Sub-Bolts** - probability of adding smaller sub-bolts
 
 ### Material
-- **Bolt Color**
+- **Bolt Color** - base color of the lightning
 - **Emission Strength** - how bright the mesh will be, best shown with Bloom enabled, in Standard Color Management
 
 ### Motion
-- **Speed Factor**
-- **Progress**
+- **Speed Factor** - how fast will the lightning jitter
+- **Progress** - animate transparency
 
 ## Road Plane Curve
 ![Road Plane Curve](/assets/Assets/Draw_Curves/Road_Plane_Curve_Preview.png)
@@ -84,8 +83,8 @@ order: 100
 ### Material
 - **Line Spacing** - length of lines / distance between
 - **Road Color** - base pavement color
-- **Center Line Color**
-- **Outer Line Color**
+- **Center Line Color** - spaced or solid line, default white
+- **Outer Line Color** - default yellow
 - **Puddles Color** - show if puddles are enabled
 
 ### Cracks & Puddles
@@ -108,13 +107,13 @@ order: 100
 - **Curve Resolution** - points around curve
 - **Curve Radius** - thickness of rope
 - **SubDiv Level** - smooths the mesh, but computationally expensive
-- **Multi-Strand**
+- **Multi-Strand** - single or multiple curves
 - **Twist** - amount to twist the strands around the curve
 - **Strands** - number of strands
 - **Strand Spacing** - distance between strands
 
 ### Material
-- **Cable Color**
+- **Cable Color** - base color of the rope
 
 ## Tears / Sweat Curve
 ![Tears Sweat Curve](/assets/Assets/Draw_Curves/Tears_Sweat_Curve_Preview.png)
@@ -135,10 +134,10 @@ order: 100
 - **Curve Resolution** - points around curve
 - **Curve Radius** - thickness of cable
 - **SubDiv Level** - smooths the mesh, but computationally expensive
-- **Multi-Strand**
+- **Multi-Strand** - single or multiple curves
 - **Twist** - amount to twist the strands around the curve
 - **Strands** - number of strands
 - **Strand Spacing** - distance between strands
 
 ### Material
-- **Cable Color**
+- **Cable Color** - base color of the cable
