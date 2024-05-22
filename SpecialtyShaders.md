@@ -13,7 +13,7 @@ order: 400
 ![Halftone](/assets/Materials/Base_Shaders/Halftone_Previw.png)
 
 ## Holofoil
-![Holofoil](/assets/Materials/Base_Shaders/Holofoil_Previw.png)
+![Holofoil](/assets/Materials/Base_Shaders/SASSE_Holofoil_Preview.png)
 
 ## Outline
 ![Outline](/assets/Materials/Base_Shaders/Toon_Outline_Preview.png)
