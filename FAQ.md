@@ -11,7 +11,7 @@ order: 600
 
 ## FAQ
 ### Why aren't the Ambient Occlusion settings doing anything?
-Make sure you have enable Ambient Occlusion in your Render Settings.
+Make sure you have enabled Ambient Occlusion in your Render Settings.
 
 ### Why are the colors faded / washed out?
 Make sure you are using Standard View Transform under Color Management in your Render Settings.
