@@ -18,14 +18,8 @@ order: 400
 ## Glossy / Metallic
 ![Glossy](/assets/Materials/Base_Shaders/Glossy_Metallic_Previw.png)
 
-## Outline
-![Outline](/assets/Materials/Base_Shaders/Toon_Outline_Preview.png)
-
 ## Specular / Wet
 ![Specular](/assets/Materials/Base_Shaders/Specular_Wet_Previw.png)
-
-## Tears / Sweat
-![Tears](/assets/Materials/Base_Shaders/Tears_Sweat_Preview.png)
 
 ## Transparent
 ![Transparent](/assets/Materials/Base_Shaders/Transparent_Previw.png)
