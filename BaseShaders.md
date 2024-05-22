@@ -10,16 +10,16 @@ order: 400
 {:toc}
 
 ## Diffuse / General
-![Diffuse](/assets/Materials/Base_Shaders/Diffuse_General_Previw.png)
+![Diffuse](/assets/Materials/Base_Shaders/SASSE_DiffuseGeneral_Preview.png)
 
 ## Glass / Bubble
-![Glass](/assets/Materials/Base_Shaders/Glass_Bubble_Previw.png)
+![Glass](/assets/Materials/Base_Shaders/SASSE_GlassBubble_Preview.png)
 
 ## Glossy / Metallic
-![Glossy](/assets/Materials/Base_Shaders/Glossy_Metallic_Previw.png)
+![Glossy](/assets/Materials/Base_Shaders/SASSE_GlossyMetallic_Preview.png)
 
 ## Specular / Wet
-![Specular](/assets/Materials/Base_Shaders/Specular_Wet_Previw.png)
+![Specular](/assets/Materials/Base_Shaders/SASSE_SpecularWet_Preview.png)
 
 ## Transparent
-![Transparent](/assets/Materials/Base_Shaders/Transparent_Previw.png)
+![Transparent](/assets/Materials/Base_Shaders/SASSE_Transparent_Preview.png)
