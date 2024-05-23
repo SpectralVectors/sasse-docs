@@ -13,15 +13,15 @@ order: 0
 - Banded Lighting with threshold (turn up or down the number of bands)
 - Colored Light! Light your stylized scene with color!
 - Light Path or Vector Math based shading
-- Diffuse, Specular, Glossy, Transparent Base Shaders
-- Specialized Glass, Tears, Holofoil and Halftone Shaders
+- Diffuse, Specular, Glossy, Glass and Transparent Base Shaders
+- Specialized Genga, Holofoil, Halftone, Retro Grain and Tears Shaders
 - Customize surface, light band and rim light normals with animatable textures
 
 ### Linework
 - Geometry Node based lines
 - Quick drag and drop, single modifier outline
-- Inner Lines via Edge Marks - similar to Line Art Modifier workflow
-- Inner Line Profile - taper ends for a hand-drawn look
+- Inner Lines via Edge Marks - _similar to Line Art Modifier workflow_
+- Inner Line Profile - _taper ends for a hand-drawn look_
 - Frame Jitter to simulate hand-drawn imperfections
 - Camera Culling to boost performance
 - Color and Thickness control in one location
@@ -39,9 +39,10 @@ order: 0
 - 36 procedural, customizable, animatable effects
 - 12 categories including Background, Foreground, Impact, Reaction, Trails and more
 - Effects include: Speed Lines, Action Backgrounds, Heat Refraction, Light Trails and more
+- Expanding library of effects
 
 ### Node Groups
-- 26 2K Traditional Art Textures
-- 23 2K Foliage Alpha Textures
-- Utility Nodes for Stepped Motion (animating on 2s, 4s) and LFO (easily add oscillating motion)
+- 26 2K Seamless Traditional Art Textures - _easily add a hand-painted look_
+- 23 2K Foliage Alpha Textures - _quickly create a variety of bushes and trees for your scene_
+- Utility Nodes for Stepped Motion (animating on 1s, 2s, 3s or 4s) and LFO (easily add oscillating motion)
 - Main and Asset Shaders available as Node Groups for easy editing
