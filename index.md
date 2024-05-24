@@ -167,10 +167,10 @@ Thank you for visiting the SASSE docs!
 </div>                              
 <div id="detector-w4" class="detector">
         <p>
-                <img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/Diffuse_General_Previw.png">
+                <img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/SASSE_DiffuseGeneral_Preview.png">
         </p>
         <p>
-                <img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/Glossy_Metallic_Previw.png">  
+                <img src="https://spectralvectors.github.io/sasse-docs/assets/Materials/Base_Shaders/SASSE_GlossyMetallic_Preview.png">  
         </p>
 </div>        
 <div id="detector-w5" class="detector">
