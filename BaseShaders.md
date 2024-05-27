@@ -51,7 +51,7 @@ order: 400
 ![Specular](/assets/Materials/Base_Shaders/SASSE_SpecularWet_Preview.png)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
-- **Specular Color | Texture** - set the highlight tint
+- **Specular Color / Texture** - set the highlight tint
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
 - **Roughness** - how the light is dispersed across the object
 - **Rim Light Strength** - how bright / intense is the highlight
