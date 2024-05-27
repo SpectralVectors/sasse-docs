@@ -24,6 +24,10 @@ order: 600
 - [Ryan King Art](https://blendermarket.com/creators/ryan-king-art)
 - [Kristof Dedene](https://kdedene.gumroad.com/)
 
+## Trees
+- [GeoTree](https://blenderartists.org/t/geotree-procedural-trees-in-geometry-nodes/1301810)
+- [Albero](https://blendermarket.com/products/albero---geometry-nodes-powered-tree-generator)
+
 ## Framerate
 - [Stop-Mo by SouthernShotty](https://blendermarket.com/products/stop-mo)
 - [NPR Framerate Mixer by CodyWinch](https://codywinch.gumroad.com/l/b3d_frm)
