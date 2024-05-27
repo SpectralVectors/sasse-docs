@@ -12,7 +12,7 @@ order: 400
 ## Diffuse / General
 ![Diffuse](/assets/Materials/Base_Shaders/SASSE_DiffuseGeneral_Preview.png)
 ### Settings
-- **Base Color | Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
+- **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
 - **Roughness** - how the light is dispersed across the object
 - **Rim Light Strength** - how bright / intense is the highlight
@@ -31,7 +31,7 @@ order: 400
 ## Glossy / Metallic
 ![Glossy](/assets/Materials/Base_Shaders/SASSE_GlossyMetallic_Preview.png)
 ### Settings
-- **Base Color | Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
+- **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
 - **Roughness** - how the light is dispersed across the object
 - **Rim Light Strength** - how bright / intense is the highlight
@@ -50,7 +50,7 @@ order: 400
 ## Specular / Wet
 ![Specular](/assets/Materials/Base_Shaders/SASSE_SpecularWet_Preview.png)
 ### Settings
-- **Base Color | Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
+- **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Specular Color | Texture** - set the highlight tint
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
 - **Roughness** - how the light is dispersed across the object
@@ -81,7 +81,7 @@ order: 400
 ## Transparent
 ![Transparent](/assets/Materials/Base_Shaders/SASSE_Transparent_Preview.png)
 ### Settings
-- **Base Color | Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
+- **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Count** - both the number of lightbands and the object's sensitivity to light
 - **Rim Light** - how bright / intense is the highlight
 - **Shadow Depth** - how dark is the shadow - _1 is fully black_
