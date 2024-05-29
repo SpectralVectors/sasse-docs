@@ -35,7 +35,7 @@ This will prevent highlights from going black, but will also remove the Emissive
 I am investigating ways to address this issue that preserve functionality without having to edit a node graph.
 
 ### I'm using the Individual Asset Shaders, why are my objects black?
-See [IndividualAssetShaders](https://spectralvectors.github.io/sasse-docs/IndividualAssetShaders.html)
+See [Individual Asset Shaders](https://spectralvectors.github.io/sasse-docs/IndividualAssetShaders.html)
 
 ### Why are my outlines / inner lines too thick / too thin / not showing up at all?
 Make sure that you apply the scale to the object you are adding lines to.
