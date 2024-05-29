@@ -16,7 +16,7 @@ Make sure you have enabled Ambient Occlusion in your Render Settings.
 ### Why are the colors faded / washed out?
 Make sure you are using Standard View Transform under Color Management in your Render Settings.
 
-### Why isn't _______ Effect working? I put it in my scene and nothing happened!?!
+### Why isn't this Effect working? I put it in my scene and nothing happened!?!
 Most Assets and Effects can be simply dropped into your scene, but some depend on existing objects, e.g.:
 - Electric Sphere and Impact Cracks require an object to Shrinkwrap to
 - Trails require a 'Follow Object' that must be animated (or at least move while the Timeline is running)
