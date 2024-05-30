@@ -67,7 +67,7 @@ And a special thanks to CG Matter, Cartesian Caramel and Erindale for helping me
 - [Hideaki Anno](https://www.youtube.com/watch?v=bZprXvrwZUU)
 - [Yoshiaki Kawajiri](https://www.youtube.com/watch?v=8ncwHO0ovcc)
 - [Yoshinori Kanada](https://www.youtube.com/watch?v=Fv7qCcm1qTA)
-- [Ichiro Itano](https://www.youtube.com/watch?v=k2eGmaM1su0&pp=ygUMaWNoaXJvIGl0YW5v)
+- [Ichiro Itano](https://www.youtube.com/watch?v=k2eGmaM1su0)
 - [Leiji Matsumoto](https://www.youtube.com/watch?v=zdL61crRaf8)
 - [Akira Toriyama](https://www.youtube.com/watch?v=FJqGirLjQn4)
 - [Koji Morimoto](https://www.youtube.com/watch?v=Ry2mDpgWo5c)
@@ -77,15 +77,15 @@ And a special thanks to CG Matter, Cartesian Caramel and Erindale for helping me
 - [Hiroyuki Okiura](https://www.youtube.com/watch?v=Bv4grHvq7E8)
 - [Shinichiro Watanabe](https://www.youtube.com/watch?v=nWstU3Kbg5s)
 - [Kimitoshi Yamane](https://www.youtube.com/watch?v=LXG362uUYkg)
-- Yoshiyuki Tomino
-- Ryutaro Nakamura
-- Osamu Tezuka
-- Mamoru Oshii
-- Mitsuo Iso
+- [Yoshiyuki Tomino](https://www.youtube.com/watch?v=TIcYvE231q8)
+- [Ryutaro Nakamura](https://www.youtube.com/watch?v=aOukaz37I04)
+- [Osamu Tezuka](https://www.youtube.com/watch?v=WGOjQ6I4lBs)
+- [Mamoru Oshii](https://www.youtube.com/watch?v=ybLKmO5Kq5A)
+- [Mitsuo Iso](https://www.youtube.com/watch?v=iounOj1VRUU)
 - [Yutaka Nakamura](https://www.youtube.com/watch?v=dEHfsH_2qpE)
-- Hironori Tanaka
-- Shingo Natsume
-- Junya Motomura
+- [Hironori Tanaka](https://www.youtube.com/watch?v=mrwJPl2ZYR8)
+- [Shingo Natsume](https://www.youtube.com/watch?v=6DGihqj10j0)
+- [Junya Motomura](https://www.youtube.com/watch?v=yhGjCzxJV3E)
 
 ### Studios
 - Toei
