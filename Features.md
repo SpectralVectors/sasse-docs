@@ -10,14 +10,17 @@ order: 0
 {:toc}
 ## Features
 ### Shaders
+![Base Shaders](/assets/SASSE_BaseShaders.png)
 - Banded Lighting with threshold (turn up or down the number of bands)
 - Colored Light! Light your stylized scene with color!
 - Light Path or Vector Math based shading
 - Diffuse, Specular, Glossy, Glass and Transparent Base Shaders
 - Specialized Genga, Holofoil, Halftone, Retro Grain and Tears Shaders
 - Customize surface, light band and rim light normals with animatable textures
+![Specialty Shaders](/assets/SASSE_SpecialtyShaders.png)
 
 ### Linework
+![SASSE Lines](/assets/SASSE_LinesOnCharacter.png)
 - Geometry Node based lines
 - Quick drag and drop, single modifier outline
 - Inner Lines via Edge Marks - _similar to Line Art Modifier workflow_
@@ -28,6 +31,7 @@ order: 0
 - Drag and Drop Action Lines modifier
 - Draw Lines directly onto your objects or into your scene with the Pen Tool
 - Also includes a LineArt modifier setup with predefined color palette and noise modifier
+![SASSE Lines 2](/assets/SASSE_LinesOnCharacter2.png)
 
 ### Assets
 - Draw assets into your scene with the Pen Tool
