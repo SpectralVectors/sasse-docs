@@ -12,7 +12,6 @@ order: 200
 ## Electric Wrap
 ![Electric Wrap](/assets/Effects/Electric/Electric_Sphere_Preview.png)
 ### Object
-- **Wrap Object** - object to shrinkwrap around
 - **Offset** - shift the effect to avoid clipping
 
 ### Material
