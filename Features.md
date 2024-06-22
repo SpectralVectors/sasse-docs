@@ -14,7 +14,6 @@ order: 0
 - Diffuse, Specular, Glossy, Glass and Transparent Base Shaders
 - Banded Lighting with threshold (turn up or down the number of bands)
 - Colored Light! Light your stylized scene with color!
-- Light Path or Vector Math based shading
 - Customize surface, light band and rim light normals with animatable textures
 - Specialized Genga, Holofoil, Halftone, Retro Grain and Tears Shaders
 ![Specialty Shaders](/assets/SASSE_SpecialtyShaders.png)
