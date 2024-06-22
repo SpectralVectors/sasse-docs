@@ -1,6 +1,6 @@
 ---
 layout: libdoc/page-split
-title: The Sasse Library
+title: The SASSE Library
 ---
 ![](/assets/SASSE_Library_Splash.png)
 
