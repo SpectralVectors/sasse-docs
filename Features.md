@@ -6,10 +6,9 @@ layout: libdoc/page
 category: Introduction
 order: 0
 ---
-- Features
+- Shaders
 {:toc}
-## Features
-### Shaders
+## Shaders
 ![Base Shaders](/assets/SASSE_BaseShaders.png)
 - Diffuse, Specular, Glossy, Glass and Transparent Base Shaders
 - Banded Lighting with threshold (turn up or down the number of bands)
@@ -18,7 +17,7 @@ order: 0
 - Specialized Genga, Holofoil, Halftone, Retro Grain and Tears Shaders
 ![Specialty Shaders](/assets/SASSE_SpecialtyShaders.png)
 
-### Linework
+## Linework
 ![SASSE Lines](/assets/SASSE_LinesOnCharacter.png)
 - Geometry Node based lines
 - Draw Lines directly onto your objects or into your scene with the Pen Tool
@@ -32,19 +31,19 @@ order: 0
 - Also includes a LineArt modifier setup with predefined color palette and noise modifier
 ![SASSE Lines 2](/assets/SASSE_LinesOnCharacter2.png)
 
-### Assets
+## Assets
 - Draw assets into your scene with the Pen Tool
 - Common toon objects and surfaces
 - Procedural and customizable
 - Expanding library of objects
 
-### Effects
+## Effects
 - 36 procedural, customizable, animatable effects
 - 12 categories including Background, Foreground, Impact, Reaction, Trails and more
 - Effects include: Speed Lines, Action Backgrounds, Heat Refraction, Light Trails and more
 - Expanding library of effects
 
-### Node Groups
+## Node Groups
 - 26 2K Seamless Traditional Art Textures - _easily add a hand-painted look_
 - 23 2K Foliage Alpha Textures - _quickly create a variety of bushes and trees for your scene_
 - Utility Nodes for Stepped Motion (animating on 1s, 2s, 3s or 4s) and LFO (easily add oscillating motion)
