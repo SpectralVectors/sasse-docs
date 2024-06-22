@@ -11,8 +11,7 @@ order: 200
 
 ## Light Trail
 ![Light Trail](/assets/Effects/Trails/LightTrail_Preview.png)
-### Follow Object
-- **Object** - object to follow with the trail
+### Object
 - **Use Vertex Group** - spawn single trail at object origin, or instance multiple trails on vertices
 - **Vertex Group** - vertex group to instance trails (if Use Vertex Group is selected)
 
@@ -30,8 +29,7 @@ order: 200
 
 ## Speed Lines Trail
 ![Speed Lines Trail](/assets/Effects/Trails/Speed_Lines_Trail_Preview.png)
-### Follow Object
-- **Object** - object to follow with the trail
+### Object
 - **Use Vertex Group** - spawn single trail at object origin, or instance multiple trails on vertices
 - **Vertex Group** - vertex group to instance trails (if Use Vertex Group is selected)
 
