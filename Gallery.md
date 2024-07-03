@@ -15,7 +15,9 @@ _Any intellectual property appearing herein belongs to its original owners, and 
 
 _SASSE Shaders were applied to these models, transforming their appearance, to give a basis for comparison against known stylized works, for anyone wishing to research or critique the shaders before use._
 
-_If you feel that your intellectual property is not being fairly used in this case: Please contact the author and it will be removed_
+_If you feel that your intellectual property is not being fairly used in this case:_ 
+
+_Please contact the author and it will be removed._
 
 ---
 ![](/assets/Wanderer_SASSE.png)
