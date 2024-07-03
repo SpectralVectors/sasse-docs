@@ -20,7 +20,7 @@ _If you feel that your intellectual property is not being fairly used in this ca
 _Please contact the author and it will be removed._
 
 ---
-![](/assets/Wanderer_SASSE.png)
+![Wanderer](/assets/Wanderer_SASSE.png)
 _Wanderer by Daniel Bystedt [(original)](https://dbystedt.artstation.com/projects/Aa4mm)_
 
 ---
