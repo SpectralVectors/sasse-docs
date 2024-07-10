@@ -10,7 +10,7 @@ assets:
         - webp
         - png
 category: Materials
-order: 400
+order: 402
 ---
 Designed to work with the Foliage Planes, Tree Topper and Tree Objects, drag and drop them onto your object, then select the Material from the Geometry Nodes panel.
 
