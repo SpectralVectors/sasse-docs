@@ -4,7 +4,7 @@ description: List of SASSE Library Materials and Shaders.
 layout: libdoc/page
 
 category: Materials
-order: 400
+order: 403
 ---
 This is a convenience folder for anyone who wants to modify or extend any of the shaders used in the Library.
 
