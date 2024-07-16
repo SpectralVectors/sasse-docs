@@ -10,7 +10,7 @@ order: 401
 {:toc}
 
 ## BG Diffuse
-![Diffuse](/assets/Materials/BG_Shaders/SASSE_BGDiffuse_Preview.png)
+[![Diffuse](/assets/Materials/BG_Shaders/SASSE_BGDiffuse_Preview.png)](https://www.youtube.com/watch?v=MM26J68u4Es)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Saturation** - 0 is black and white, 1 is full color
@@ -25,7 +25,7 @@ order: 401
 - **Pattern Contrast** - adjust visibility of pattern
 
 ## BG Diffuse Wood
-![Diffuse](/assets/Materials/BG_Shaders/SASSE_BGWood_Preview.png)
+[![Diffuse](/assets/Materials/BG_Shaders/SASSE_BGWood_Preview.png)](https://www.youtube.com/watch?v=kaaWxLnzi-c)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Grain Scale** - size of the wood grain
@@ -42,7 +42,7 @@ order: 401
 - **Pattern Contrast** - adjust visibility of pattern
 
 ## BG Metallic
-![Glossy](/assets/Materials/BG_Shaders/SASSE_BGMetallic_Preview.png)
+[![Glossy](/assets/Materials/BG_Shaders/SASSE_BGMetallic_Preview.png)](https://www.youtube.com/watch?v=_BGQYqaxPtc)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Saturation** - 0 is black and white, 1 is full color
@@ -59,7 +59,7 @@ order: 401
 - **Pattern Contrast** - adjust visibility of pattern
 
 ## BG Specular
-![Specular](/assets/Materials/BG_Shaders/SASSE_BGSpecular_Preview.png)
+[![Specular](/assets/Materials/BG_Shaders/SASSE_BGSpecular_Preview.png)](https://www.youtube.com/watch?v=pw0Pzk4lFFk)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Saturation** - 0 is black and white, 1 is full color
@@ -76,7 +76,7 @@ order: 401
 - **Pattern Contrast** - adjust visibility of pattern
 
 ## BG Glass
-![Glass](/assets/Materials/BG_Shaders/SASSE_BGGlass_Preview.png)
+[![Glass](/assets/Materials/BG_Shaders/SASSE_BGGlass_Preview.png)](https://www.youtube.com/watch?v=XGM5l2YNPnY)
 ### Settings
 - **Base Color** - set the main base color, this will also determine shadow and highlight color in combination with Scene lighting
 - **IOR** - the index of refraction for the glass
