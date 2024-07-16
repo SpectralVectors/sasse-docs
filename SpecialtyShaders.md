@@ -10,7 +10,7 @@ order: 404
 {:toc}
 
 ## Genga
-![Genga](/assets/Materials/Base_Shaders/SASSE_Genga_Preview.png)
+[![Genga](/assets/Materials/Base_Shaders/SASSE_Genga_Preview.png)](https://www.youtube.com/watch?v=lhpc5BOAsSI)
 ### Settings
 - **Highligh Color** - color to shade the lit areas
 - **Shadow Color** - color to shade the dark areas
@@ -20,7 +20,7 @@ order: 404
 - **Stripe Distortion** - distort the stripes - _a little distortion can add a hand-drawn feel_
 
 ## Halftone
-![Halftone](/assets/Materials/Base_Shaders/SASSE_Halftone_Preview.png)
+[![Halftone](/assets/Materials/Base_Shaders/SASSE_Halftone_Preview.png)](https://www.youtube.com/watch?v=lYXN-0_1RKY)
 ### Settings
 - **Base Color / Texture** - base material color
 - **Light Bands Count** - sensitivity to light
@@ -35,13 +35,13 @@ order: 404
 - **Rim Light Amount** - rim light bumps on dots
 
 ## Holofoil
-![Holofoil](/assets/Materials/Base_Shaders/SASSE_Holofoil_Preview.png)
+[![Holofoil](/assets/Materials/Base_Shaders/SASSE_Holofoil_Preview.png)](https://www.youtube.com/watch?v=R8YsyiVMpCs)
 
 ## Outline
-![Outline](/assets/Materials/Base_Shaders/Toon_Outline_Preview.png)
+[![Outline](/assets/Materials/Base_Shaders/Toon_Outline_Preview.png)](https://www.youtube.com/watch?v=Et0h4VWf9Cw)
 
 ## Retro / Grain
-![RetroGrain](/assets/Materials/Base_Shaders/SASSE_RetroGrain_Preview.png)
+[![RetroGrain](/assets/Materials/Base_Shaders/SASSE_RetroGrain_Preview.png)](https://www.youtube.com/watch?v=fMEeLQFmdo4)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
