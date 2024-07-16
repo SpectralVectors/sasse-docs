@@ -10,7 +10,7 @@ order: 400
 {:toc}
 
 ## Diffuse / General
-![Diffuse](/assets/Materials/Base_Shaders/SASSE_DiffuseGeneral_Preview.png)
+[![Diffuse](/assets/Materials/Base_Shaders/SASSE_DiffuseGeneral_Preview.png)](https://www.youtube.com/watch?v=Lla1DzVU_8s)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
@@ -29,7 +29,7 @@ order: 400
 - **Rim Light Amount** - distortion strength
 
 ## Glossy / Metallic
-![Glossy](/assets/Materials/Base_Shaders/SASSE_GlossyMetallic_Preview.png)
+[![Glossy](/assets/Materials/Base_Shaders/SASSE_GlossyMetallic_Preview.png)](https://www.youtube.com/watch?v=ASm9GhqCVBk)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Threshold** - both the number of lightbands and the object's sensitivity to light
@@ -48,7 +48,7 @@ order: 400
 - **Rim Light Amount** - distortion strength
 
 ## Specular / Wet
-![Specular](/assets/Materials/Base_Shaders/SASSE_SpecularWet_Preview.png)
+[![Specular](/assets/Materials/Base_Shaders/SASSE_SpecularWet_Preview.png)](https://www.youtube.com/watch?v=UKdE_wN1Z-M)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Specular Color / Texture** - set the highlight tint
@@ -68,7 +68,7 @@ order: 400
 - **Rim Light Amount** - distortion strength
 
 ## Glass / Bubble
-![Glass](/assets/Materials/Base_Shaders/SASSE_GlassBubble_Preview.png)
+[![Glass](/assets/Materials/Base_Shaders/SASSE_GlassBubble_Preview.png)](https://www.youtube.com/watch?v=oGxk35GzBFg)
 ### Settings
 - **Base Color** - set the main base color, this will also determine shadow and highlight color in combination with Scene lighting
 - **IOR** - the index of refraction for the glass
@@ -79,7 +79,7 @@ order: 400
 - **Surface Amount** - Bump strength
 
 ## Transparent
-![Transparent](/assets/Materials/Base_Shaders/SASSE_Transparent_Preview.png)
+[![Transparent](/assets/Materials/Base_Shaders/SASSE_Transparent_Preview.png)](https://www.youtube.com/watch?v=3DMO2TdCiiM)
 ### Settings
 - **Base Color / Texture** - set the main base color or texture, this will also determine shadow and highlight color in combination with Scene lighting
 - **Light Band Count** - both the number of lightbands and the object's sensitivity to light
