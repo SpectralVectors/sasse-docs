@@ -10,7 +10,7 @@ order: 300
 {:toc}
 
 ## Draw Lines
-![Draw Lines](/assets/Linework/GeometryNodes/Draw_Lines_Preview.png)
+[![Draw Lines](/assets/Linework/GeometryNodes/Draw_Lines_Preview.png)](https://www.youtube.com/watch?v=Zn1nKh0z-8U)
 ### Geometry
 - **Thickness** - base line thickness
 - **Width Min** - minimum thickness
@@ -20,7 +20,7 @@ order: 300
 - **Color** - line color
 
 ## In & Outline
-![In & Outline](/assets/Linework/GeometryNodes/In_Outline_Preview.png)
+[![In & Outline](/assets/Linework/GeometryNodes/In_Outline_Preview.png)](https://www.youtube.com/watch?v=DFt_FV6EUC4)
 ### Outline
 - **Outline** - enable outline mesh
 - **Outline Material** - outline shader
@@ -46,7 +46,7 @@ order: 300
 - **Cull Camera** - Camera perspective used for face culling
 
 ## Simple Outline
-![Simple Outline](/assets/Linework/GeometryNodes/Simple_Outline_Preview.png)
+[![Simple Outline](/assets/Linework/GeometryNodes/Simple_Outline_Preview.png)](https://www.youtube.com/watch?v=m9txiA-s8jw)
 ### Outline
 - **Outline Material** - outline shader
 - **Outline Color** - color of outline shader
